@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...developing apps
 - 🌱 I’m currently learning ...Java,Flutter
 - 📫 How to reach me ... Gmail: aqsaiqbal8360@gmail.com, 
-Instagram: its_axakhan , 
 Github: its-axakhan
 
 <!---
